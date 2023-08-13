@@ -1,0 +1,13 @@
+pandas
+sklearn
+streamlit 
+numpy
+seaborn
+matplotlib
+string
+re
+nltk
+textblob
+tensorflow
+PIL
+gensim
